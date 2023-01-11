@@ -4,9 +4,5 @@ na khoob nistam
 
 chera
 
-<<<<<<< HEAD
-
 123
-=======
 123
->>>>>>> 5ef8a71c4f16376716b701a4600a4eda589547e1
